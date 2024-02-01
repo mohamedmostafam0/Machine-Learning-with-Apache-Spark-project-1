@@ -1,4 +1,4 @@
-# Machine-Learning-with-Apache-Spark-project-1
+# Machine-Learning-with-Apache-Spark Practice Project
 
 Welcome to this practice project, where you will create an end-to-end solution using machine learning pipelines for regression. Your objective is to clean the dataset, create a model that predicts the SoundLevel based on the other columns, evaluate its performance, and persist the model for future use.
 
